@@ -1,2 +1,6 @@
-build
-wallpaper_changer.spec
+# Alles ignorieren
+*
+
+# Ausnahmen (sollen gepusht werden)
+!wallpaper_changer.py
+!dist/
