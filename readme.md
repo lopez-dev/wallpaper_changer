@@ -114,7 +114,7 @@ Falls das Skript nicht wie erwartet funktioniert:
 
 ## Lizenz
 
-Dieses Projekt ist unter der MIT-Lizenz veröffentlicht. Weitere Informationen finden Sie in der `LICENSE`-Datei des Projekts.
+Dieses Projekt ist unter der MIT-Lizenz veröffentlicht. Weitere Informationen finden Sie in der [`LICENSE`](./LICENSE)-Datei des Projekts.
 
 ---
 ```
